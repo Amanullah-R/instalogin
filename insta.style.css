@@ -1,0 +1,129 @@
+h1{
+    text-align:center;
+    font-family:sans-serif;
+    background-color: beige;
+    padding:10px;
+    transition:0.9s;
+    
+    
+}
+.box{
+    border-style:solid;
+    height:500px;
+    width:400px;
+    margin:auto;
+    border-radius: 25px 0px 25px 0px;
+    box-shadow:0px 8px 16px 0px #515;
+   
+   
+}
+
+.container{
+   
+    height:250px;
+    width:250px;
+    
+    
+    
+    
+
+}
+
+
+
+#u_name{
+    width:250px;
+    height:35px;
+    padding:5px;
+    border-radius:6px;
+    box-shadow: 0px 3px 18px rgb(255, 114, 20);
+    margin-bottom: 22px;
+    font-size:15px;
+    margin-left:65px
+    
+    
+   
+}
+
+#p_word{
+    width:250px;
+    height:35px;
+    padding:5px;
+    border-radius:6px;
+    box-shadow:0px 3px 18px rgb(225, 114, 20);
+    margin-bottom: 22px;
+    font-size:15px;
+    margin-left:65px;
+   
+}  
+
+#login{
+    width:264px;
+    height:35px;
+    padding:5px;
+    border-radius:6px;
+    background-color: #2196f3;
+    color:white;
+    margin-bottom:20px;
+    margin-left:65px
+
+    
+
+}
+
+#link{
+    text-decoration: none;
+    font-size:large;
+    color:#2196f3;
+    padding-left: 120px;
+    
+    
+ 
+}
+
+
+.line{
+    text-align:center;
+}
+
+#sign{
+    text-decoration: none;
+    color:#2196f3;
+    text-shadow:0px 8px 18px #515;
+
+}
+
+#login:hover{
+    box-shadow: 0px 8px 16px 0px #2196f3;
+    transition:0.5s;
+}
+
+
+#u_name:hover{
+    background-image: url(nature1.jpg);
+    height:40px;
+    transition:1s;
+    
+}
+
+
+#p_word:hover{
+    background-image: url(nature2.jpg);
+    height:40px;
+    transition:1s;
+}
+
+
+.sign1{
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: beige;
+    margin:2px;
+    padding:10px;
+    padding-left:40px;
+}
+
+h1:hover{
+    text-shadow: 0px 8px 16px black;
+}
+
